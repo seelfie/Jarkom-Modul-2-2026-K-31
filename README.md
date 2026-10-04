@@ -2,8 +2,8 @@
 
 | Nama | NRP | Soal |
 |------|-----|------|
-| Silfi Rochmatul Auliyah | 5027251008 | 1-10
-| Nabila Sharliz Sigit | 5027251054 | 11-20
+| Silfi Rochmatul Auliyah | 5027251008 | 11-20
+| Nabila Sharliz Sigit | 5027251054 | 1-10
 
 ## Reporting
 
