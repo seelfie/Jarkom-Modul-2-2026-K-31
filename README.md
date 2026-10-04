@@ -1205,7 +1205,7 @@ Setelah verifikasi selesai, IP abbey dikembalikan seperti semula.
 bash soal-18.sh balik
 ```
 
-** 19. Last? But not least? Buat CNAME record yang melakukan binding dari domain internal outbound.xxx.com menuju domain eksternal http.badssl.com, Lakukan perintah curl ke http://outbound.xxx.com dan pastikan output yang dihasilkan sesuai dengan isi konten di halaman http.badssl.com. **
+**19. Last? But not least? Buat CNAME record yang melakukan binding dari domain internal outbound.xxx.com menuju domain eksternal http.badssl.com, Lakukan perintah curl ke http://outbound.xxx.com dan pastikan output yang dihasilkan sesuai dengan isi konten di halaman http.badssl.com.**
 
 Pada soal ini `outbound.k31.com` dibuat sebagai alias dari `http.badssl.com`, sehingga ketika `outbound.k31.com` di-resolve, DNS akan mengikuti alias tersebut sampai mendapatkan IP milik `http.badssl.com`.
 
